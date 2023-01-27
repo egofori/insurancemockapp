@@ -2,15 +2,12 @@
 
 Mock up insurance app using flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to run the projecct
+ 
+- [Install flutter](https://docs.flutter.dev/get-started/install)
+- Install Andriod studio
+- Open project directory
+- To launch the app in the Simulator, ensure that the Simulator is running and enter:
+```
+flutter run
+```
